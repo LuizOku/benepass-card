@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Card /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="bg-card bg-cover rounded-xl p-6 sm:w-[392px] h-[272px] min-w-[310px] flex flex-col transition-all duration-500 md:hover:scale-105"
+        data-testid="card-component"
+      >
+        <div
+          class="w-full flex items-center justify-between mb-6"
+        >
+          <img
+            alt="Logo"
+            class="w-[121px] h-8 object-cover"
+            data-testid="card-logo"
+            src="Logo.svg"
+          />
+          <span
+            class="px-3 py-1 rounded-full bg-white capitalize text-base font-medium text-brand-indigo-100"
+          >
+            virtual
+          </span>
+        </div>
+        <span
+          class="text-[26px] leading-8 text-white"
+        >
+          1232 2223 4432 1732
+        </span>
+        <div
+          class="mt-6 flex flex-row items-center justify-between w-1/2"
+        >
+          <div
+            class="flex flex-col"
+          >
+            <span
+              class="text-xs font-medium text-white"
+            >
+              VALID THRU
+            </span>
+            <span
+              class="text-[18px] leading-6 font-medium text-white"
+            >
+              08/28
+            </span>
+          </div>
+          <div
+            class="flex flex-col"
+          >
+            <span
+              class="text-xs font-medium text-white"
+            >
+              CVC
+            </span>
+            <span
+              class="text-[18px] leading-6 font-medium text-white"
+            >
+              345
+            </span>
+          </div>
+        </div>
+        <div
+          class="flex-grow"
+        />
+        <div
+          class="w-full flex items-center justify-between"
+        >
+          <span
+            class="text-[18px] leading-6 font-normal text-white"
+          >
+            ZIP 66062
+          </span>
+          <img
+            alt="Visa"
+            class="w-[54px] h-[18px] object-cover"
+            data-testid="visa-img"
+            src="Visa.svg"
+          />
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="bg-card bg-cover rounded-xl p-6 sm:w-[392px] h-[272px] min-w-[310px] flex flex-col transition-all duration-500 md:hover:scale-105"
+      data-testid="card-component"
+    >
+      <div
+        class="w-full flex items-center justify-between mb-6"
+      >
+        <img
+          alt="Logo"
+          class="w-[121px] h-8 object-cover"
+          data-testid="card-logo"
+          src="Logo.svg"
+        />
+        <span
+          class="px-3 py-1 rounded-full bg-white capitalize text-base font-medium text-brand-indigo-100"
+        >
+          virtual
+        </span>
+      </div>
+      <span
+        class="text-[26px] leading-8 text-white"
+      >
+        1232 2223 4432 1732
+      </span>
+      <div
+        class="mt-6 flex flex-row items-center justify-between w-1/2"
+      >
+        <div
+          class="flex flex-col"
+        >
+          <span
+            class="text-xs font-medium text-white"
+          >
+            VALID THRU
+          </span>
+          <span
+            class="text-[18px] leading-6 font-medium text-white"
+          >
+            08/28
+          </span>
+        </div>
+        <div
+          class="flex flex-col"
+        >
+          <span
+            class="text-xs font-medium text-white"
+          >
+            CVC
+          </span>
+          <span
+            class="text-[18px] leading-6 font-medium text-white"
+          >
+            345
+          </span>
+        </div>
+      </div>
+      <div
+        class="flex-grow"
+      />
+      <div
+        class="w-full flex items-center justify-between"
+      >
+        <span
+          class="text-[18px] leading-6 font-normal text-white"
+        >
+          ZIP 66062
+        </span>
+        <img
+          alt="Visa"
+          class="w-[54px] h-[18px] object-cover"
+          data-testid="visa-img"
+          src="Visa.svg"
+        />
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

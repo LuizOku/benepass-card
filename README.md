@@ -1,10 +1,10 @@
 <div align="center">
-    <img src="https://cdn.prod.website-files.com/608f33836c9455bca4d4da58/608f4aed3543ac67611cc1ec_Benepass_Logo.png"/>
+    <img width="400" src="https://cdn.prod.website-files.com/608f33836c9455bca4d4da58/608f4aed3543ac67611cc1ec_Benepass_Logo.png"/>
 </div>
 
 # Benepass Card
 
-![](https://i.ibb.co/fNnzKfz/Screenshot-at-Jun-26-03-05-31.png)
+<img width="400" src="https://i.ibb.co/fNnzKfz/Screenshot-at-Jun-26-03-05-31.png"/>
 
 ## Overview
 >
@@ -13,7 +13,7 @@
 ## Demo
 >
 > Live demo:
-> [Benepass Card Live Demo](https://google.com/)
+> [Benepass Card Live Demo](https://benepass-card.netlify.app/)
 
 ## How to run
 
